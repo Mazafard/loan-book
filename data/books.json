@@ -1,0 +1,262 @@
+[
+  {
+    "title": "The Way of All Flesh",
+    "author": "Aline Schaefer",
+    "genre": "Fanfiction",
+    "prerequisites": [
+      "The Lathe of Heaven",
+      "A Catskill Eagle",
+      "Dying of the Light"
+    ]
+  },
+  {
+    "title": "The Lathe of Heaven",
+    "author": "Yael Heaney",
+    "genre": "Folklore",
+    "prerequisites": [
+      "The Green Bay Tree"
+    ]
+  },
+  {
+    "title": "The Green Bay Tree",
+    "author": "Kevin Bauch III",
+    "genre": "Textbook",
+    "prerequisites": [
+      "Wildfire at Midnight",
+      "The Painted Veil"
+    ]
+  },
+  {
+    "title": "Wildfire at Midnight",
+    "author": "Flavia Dare",
+    "genre": "Folklore",
+    "prerequisites": []
+  },
+  {
+    "title": "The Wives of Bath",
+    "author": "Walter Stokes",
+    "genre": "Legend",
+    "prerequisites": []
+  },
+  {
+    "title": "Frequent Hearses",
+    "author": "Refugio Schroeder",
+    "genre": "Reference book",
+    "prerequisites": []
+  },
+  {
+    "title": "His Dark Materials",
+    "author": "Flavia Dare",
+    "genre": "Crime/Detective",
+    "prerequisites": []
+  },
+  {
+    "title": "Bury My Heart at Wounded Knee",
+    "author": "Refugio Schroeder",
+    "genre": "Fiction narrative",
+    "prerequisites": []
+  },
+  {
+    "title": "Absalom, Absalom!",
+    "author": "Phuong Schuster PhD",
+    "genre": "Fiction narrative",
+    "prerequisites": []
+  },
+  {
+    "title": "Vile Bodies",
+    "author": "Fr. Suanne Cummerata",
+    "genre": "Textbook",
+    "prerequisites": []
+  },
+  {
+    "title": "The Mirror Crack'd from Side to Side",
+    "author": "Scot Labadie",
+    "genre": "Historical fiction",
+    "prerequisites": [
+      "The Way of All Flesh",
+      "Death Be Not Proud",
+      "Of Mice and Men",
+      "Now Sleeps the Crimson Petal"
+    ]
+  },
+  {
+    "title": "Death Be Not Proud",
+    "author": "Dessie Kohler",
+    "genre": "Fiction narrative",
+    "prerequisites": []
+  },
+  {
+    "title": "The Wind's Twelve Quarters",
+    "author": "Yael Heaney",
+    "genre": "Fiction narrative",
+    "prerequisites": []
+  },
+  {
+    "title": "Of Mice and Men",
+    "author": "Dessie Kohler",
+    "genre": "Fairy tale",
+    "prerequisites": [
+      "The Last Temptation"
+    ]
+  },
+  {
+    "title": "The Last Temptation",
+    "author": "Errol Waelchi",
+    "genre": "Short story",
+    "prerequisites": [
+      "The Way of All Flesh"
+    ]
+  },
+  {
+    "title": "Blithe Spirit",
+    "author": "Msgr. Denver Hand",
+    "genre": "Folklore",
+    "prerequisites": []
+  },
+  {
+    "title": "Terrible Swift Sword",
+    "author": "Fr. Suanne Cummerata",
+    "genre": "Realistic fiction",
+    "prerequisites": []
+  },
+  {
+    "title": "A Handful of Dust",
+    "author": "Kevin Bauch III",
+    "genre": "Historical fiction",
+    "prerequisites": []
+  },
+  {
+    "title": "Stranger in a Strange Land",
+    "author": "Flavia Dare",
+    "genre": "Folklore",
+    "prerequisites": []
+  },
+  {
+    "title": "Consider Phlebas",
+    "author": "Refugio Schroeder",
+    "genre": "Fairy tale",
+    "prerequisites": []
+  },
+  {
+    "title": "This Lime Tree Bower",
+    "author": "Phuong Schuster PhD",
+    "genre": "Fiction narrative",
+    "prerequisites": []
+  },
+  {
+    "title": "In Dubious Battle",
+    "author": "Flavia Dare",
+    "genre": "Legend",
+    "prerequisites": []
+  },
+  {
+    "title": "An Evil Cradling",
+    "author": "Dessie Kohler",
+    "genre": "Textbook",
+    "prerequisites": []
+  },
+  {
+    "title": "Waiting for the Barbarians",
+    "author": "Yael Heaney",
+    "genre": "Historical fiction",
+    "prerequisites": []
+  },
+  {
+    "title": "To Sail Beyond the Sunset",
+    "author": "Walter Stokes",
+    "genre": "Textbook",
+    "prerequisites": []
+  },
+  {
+    "title": "Little Hands Clapping",
+    "author": "Shondra Simonis",
+    "genre": "Legend",
+    "prerequisites": []
+  },
+  {
+    "title": "It's a Battlefield",
+    "author": "Fr. Suanne Cummerata",
+    "genre": "Science fiction",
+    "prerequisites": []
+  },
+  {
+    "title": "A Confederacy of Dunces",
+    "author": "Kevin Bauch III",
+    "genre": "Science fiction",
+    "prerequisites": []
+  },
+  {
+    "title": "Lilies of the Field",
+    "author": "Walter Stokes",
+    "genre": "Folklore",
+    "prerequisites": []
+  },
+  {
+    "title": "Now Sleeps the Crimson Petal",
+    "author": "Darrell Ratke",
+    "genre": "Fable",
+    "prerequisites": []
+  },
+  {
+    "title": "The Other Side of Silence",
+    "author": "Gustavo Stokes",
+    "genre": "Horror",
+    "prerequisites": []
+  },
+  {
+    "title": "The Glory and the Dream",
+    "author": "Refugio Schroeder",
+    "genre": "Mythopoeia",
+    "prerequisites": []
+  },
+  {
+    "title": "Vanity Fair",
+    "author": "Ernesto Grant",
+    "genre": "Fable",
+    "prerequisites": []
+  },
+  {
+    "title": "I Know Why the Caged Bird Sings",
+    "author": "Aline Schaefer",
+    "genre": "Legend",
+    "prerequisites": []
+  },
+  {
+    "title": "Moab Is My Washpot",
+    "author": "Eugenio Skiles",
+    "genre": "Metafiction",
+    "prerequisites": []
+  },
+  {
+    "title": "The Millstone",
+    "author": "Darrell Ratke",
+    "genre": "Horror",
+    "prerequisites": []
+  },
+  {
+    "title": "The Proper Study",
+    "author": "Miss Adam Swift",
+    "genre": "Fairy tale",
+    "prerequisites": []
+  },
+  {
+    "title": "The Painted Veil",
+    "author": "Phuong Schuster PhD",
+    "genre": "Realistic fiction",
+    "prerequisites": [
+      "The Way of All Flesh"
+    ]
+  },
+  {
+    "title": "Dying of the Light",
+    "author": "Maddie West",
+    "genre": "Reference book",
+    "prerequisites": []
+  },
+  {
+    "title": "A Catskill Eagle",
+    "author": "Errol Waelchi",
+    "genre": "Metafiction",
+    "prerequisites": []
+  }
+]

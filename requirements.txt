@@ -1,0 +1,14 @@
+
+django==3.2.3
+djangorestframework==3.12.4
+django-3-jet==1.0.8
+django_redis==5.0.0
+psycopg2-binary==2.8.6
+requests==2.25.1
+redis==3.5.3
+uwsgi==2.0.19.1
+django-cors-headers==3.7.0
+djangorestframework-jwt==1.11.0
+django-fsm==2.7.1
+progress==1.5
+drf-yasg
