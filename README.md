@@ -75,3 +75,6 @@ $ python3 manage.py runserver
 Click on the following link for the browser: http://127.0.0.1:8000
 
 A big hoorah!
+
+## 🌎 Visitors
+[![Visits Badge](https://badges.pufler.dev/visits/mazafard/loan-book)](https://badges.pufler.dev/mazafard/loan-book)
